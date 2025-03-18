@@ -1,8 +1,6 @@
 import os
-
 from mistralai import Mistral
 from mistralai.models import SDKError
-
 
 
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")

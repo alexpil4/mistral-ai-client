@@ -1,7 +1,7 @@
 
 # Mistral API Client 
 
-This project provides a Python client for interacting with the Mistral API.
+This project provides a Python client for interacting with the [Mistral API](https://docs.mistral.ai/).
 
 ## Getting Started
 
